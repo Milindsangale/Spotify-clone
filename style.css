@@ -157,3 +157,24 @@ a{
 .nav-item {
     margin-right: 1rem;
 }
+
+@media (max-width:1000px) {
+    .hide{
+        display: none;
+    }
+}
+
+.cards{
+    background-color: #232323;
+    width: 150px;
+    border-radius: 0.5rem;
+}
+.card-container{
+    display: flex;
+
+}
+.card-img{
+    width: 100%;
+    border-radius: 0.5rem;
+
+}
