@@ -10,6 +10,8 @@ A Spotify clone built using HTML and CSS. This project replicates the basic user
 
 
 ## 🚀 Spotify Clone Preview 
+![Screenshot 2025-01-30 001827](https://github.com/user-attachments/assets/cf4a6c69-963c-4156-b632-62f78dadd2c0)
+
 
 
 ---
